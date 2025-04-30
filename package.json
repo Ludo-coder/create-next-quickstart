@@ -1,0 +1,15 @@
+{
+  "name": "create-next-quickstart",
+  "version": "1.0.0",
+  "description": "A template for Next.js app",
+  "bin": {
+    "create-next-quickstart": "./index.js"
+  },
+  "keywords": [
+    "create",
+    "nextjs",
+    "template"
+  ],
+  "author": "Ludo",
+  "license": "MIT"
+}
