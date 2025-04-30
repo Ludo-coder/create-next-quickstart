@@ -1,6 +1,6 @@
 {
   "name": "create-next-quickstart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A template for Next.js app",
   "bin": {
     "create-next-quickstart": "./index.js"
